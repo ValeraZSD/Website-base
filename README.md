@@ -18,7 +18,7 @@ There you can click on "Clone Git repository...":
 
 ![Clone Git](https://github.com/ValeraZSD/Website-base/assets/48602572/5e25a6e1-8847-429c-8ef1-8f95143b6cc6)
 
-**!** If you can't find this button, you can go to the 'File -> New Window' (Ctrl+Shift+N).
+**!** If you can't find this button, you can go to the `File -> New Window` (Ctrl+Shift+N).
 
 4. **Enter Repository URL**: When prompted, enter the following repository URL:
 
@@ -32,7 +32,7 @@ There you can click on "Clone Git repository...":
 
 ### 2. Navigate to the Repository
 
-If you haven't already opened the repository, you can always navigate to it in VS Code by selecting `File > Open Folder...` and choosing the `Website-base` directory on your computer.
+If you haven't already opened the repository, you can always navigate to it in VS Code by selecting `File -> Open Folder...` and choosing the `Website-base` directory on your computer.
 
 ### 3. Start working on the Project
 
