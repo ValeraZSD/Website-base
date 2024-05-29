@@ -23,7 +23,7 @@ There you can click on "Clone Git repository...":
 4. **Enter Repository URL**: When prompted, enter the following repository URL:
 
     ```
-    https://github.com/ValeraZSD/Website-base.git
+    https://github.com/ValeraZSD/Website-base
     ```
 
 5. **Select Destination Folder**: Choose a local directory where you want to store the cloned repository on your computer.
