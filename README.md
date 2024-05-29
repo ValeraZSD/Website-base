@@ -10,13 +10,14 @@ To get started with this repository, follow these steps:
 
 First, open Visual Studio Code (VS Code).
 
-1. **Open VS Code**: If you haven't installed VS Code yet, you can download and install it from [here](https://code.visualstudio.com/).
+1. **Open VS Code**: If you haven't installed Visual Studio Code yet, you can download and install it from [here (click)](https://code.visualstudio.com/Download).
 
-2. **Open the Command Palette**: Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac) to open the Command Palette.
+2. **Clone Repository**: If you just opened VS Code, then you will see some prompt buttons on the left side of the screen.
+There you can click on "Clone Git repository...":
+![Clone Git](https://github.com/ValeraZSD/Website-base/assets/48602572/5e25a6e1-8847-429c-8ef1-8f95143b6cc6)
+**!** If you can't find this button, you can go to the 'File -> New Window' (Ctrl+Shift+N).
 
-3. **Clone Repository**: Type `Git: Clone` and select `Git: Clone` from the dropdown options.
-
-4. **Enter Repository URL**: When prompted, enter the following repository URL using "Ctrl+V":
+4. **Enter Repository URL**: When prompted, enter the following repository URL:
 
     ```
     https://github.com/ValeraZSD/Website-base.git
