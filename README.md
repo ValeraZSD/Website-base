@@ -1,6 +1,7 @@
 # Website Base Repository
 
-Welcome to the Website Base repository! This repository serves as a starting point for students to build their own websites. By cloning this repository, you can quickly set up a basic website structure and customize it to fit your needs.
+Welcome! This repository serves as a starting point for students to build their own websites.
+By cloning this repository, you can quickly set up a basic website structure and customize it to fit your needs.
 
 ## Getting Started
 
@@ -14,7 +15,9 @@ First, open Visual Studio Code (VS Code).
 
 2. **Clone Repository**: If you just opened VS Code, then you will see some prompt buttons on the left side of the screen.
 There you can click on "Clone Git repository...":
+
 ![Clone Git](https://github.com/ValeraZSD/Website-base/assets/48602572/5e25a6e1-8847-429c-8ef1-8f95143b6cc6)
+
 **!** If you can't find this button, you can go to the 'File -> New Window' (Ctrl+Shift+N).
 
 4. **Enter Repository URL**: When prompted, enter the following repository URL:
